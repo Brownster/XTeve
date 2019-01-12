@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM phusion/baseimage:0.11
 MAINTAINER Brownster
 
 # Dependencies
